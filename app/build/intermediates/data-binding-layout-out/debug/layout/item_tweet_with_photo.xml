@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    
+                                                                                      
+                                                                                                 
+           
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/llTweetContainer" android:tag="layout/item_tweet_with_photo_0">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:tag="binding_1"                      
+                android:scaleType="fitCenter"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/ivProfileImage"
+                android:background="#dfd6d6"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                                                                                                      />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/llBodyContainer">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="20dp"
+                    android:id="@+id/llBodyHead">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="SCREEN_NAME"                                        
+                        tools:text="ATernestsemerda"
+                        android:textSize="11sp"
+                        android:textColor="@color/md_grey_600"
+                        android:id="@+id/tvScreenName"
+                        android:layout_marginLeft="5dp"
+                        android:tag="binding_2"                                                               />
+
+                    <TextView
+                        android:tag="binding_3"            
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:text="8 mins ago"
+                        android:text="X_MINS_AGO"
+                        android:textSize="10sp"
+                        android:textColor="@color/md_grey_600"
+                        android:id="@+id/tvTimeAgo"
+                        android:gravity="right"/>
+
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="fill_parent"
+                    android:text="BODY_TEXT"                       
+                    tools:text="Hello World Tweet."
+                    android:tag="binding_4"       
+                    android:textSize="12sp"
+                    android:textColor="@color/md_black_1000"
+                    android:id="@+id/tvBody"
+                    android:maxLines="5"
+                    android:autoLink="all"
+                    android:linksClickable="true"
+                    android:paddingLeft="5dp"
+                    />
+
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/ivMediaImage"
+                    android:paddingTop="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingBottom="5dp"
+                    android:src="@drawable/profile_img_s"/>
+                    <!-- app:mImageUrl="@{tweet.mediaUrl}"/-->
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <include layout="@layout/tweet_actions"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:id="@+id/ivDivider"
+            android:minHeight="200dp"
+            android:background="@color/md_grey_300"
+            android:layout_alignParentBottom="true"
+            android:tag="binding_5"                                                               />
+
+    </LinearLayout>
+
+         

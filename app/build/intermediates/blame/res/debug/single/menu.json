@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/menu/menu_share.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/src/main/res/menu/menu_share.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/menu/menu_timeline.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/src/main/res/menu/menu_timeline.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/menu/menu_search.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/src/main/res/menu/menu_search.xml"
+    }
+]

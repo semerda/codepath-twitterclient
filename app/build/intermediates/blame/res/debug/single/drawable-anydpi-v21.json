@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_white_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/twitter_reply.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/twitter_reply.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/twitter_retweet.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/twitter_retweet.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_block_black_48dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_block_black_48dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_profile.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_profile.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_block_red_48dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_block_red_48dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_white_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_search_black_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_autorenew_black_48dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_autorenew_black_48dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_autorenew_grey_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_autorenew_grey_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/twitter_like.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/twitter_like.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_filter_list_black_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filter_list_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_black_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_action_search.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_action_search.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_block_black_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_block_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_autorenew_black_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_autorenew_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_filter_list_white_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filter_list_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_favorite_grey_24dp.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_favorite_grey_24dp.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_profile_white.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_profile_white.xml"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_twitter.xml",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_twitter.xml"
+    }
+]

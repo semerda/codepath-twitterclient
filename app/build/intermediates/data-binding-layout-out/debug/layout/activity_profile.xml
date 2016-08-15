@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    
+                                                                                    
+                                                                                                 
+           
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context="com.purpleblue.apps.twitterclient.activities.ProfileActivity" android:tag="layout/activity_profile_0">
+
+        <ImageView
+            android:scaleType="fitXY"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:id="@+id/ivProfileBannerImage"
+            android:background="@drawable/profile_img_s" />
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:minHeight="?attr/actionBarSize"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:theme="@style/ToolBarStyle">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|top"
+                android:textSize="16sp"
+                android:textColor="@color/md_white_1000"
+                android:id="@+id/toolbar_title" />
+
+        </android.support.v7.widget.Toolbar>
+
+        <!-- TODO: Make this a User Header Fragment -->
+        <RelativeLayout
+            android:id="@+id/rlUserHeader"
+            android:layout_below="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@drawable/transparent_bg">
+
+            <ImageView
+                android:scaleType="fitCenter"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/ivProfileImage"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/image_border"
+                android:layout_marginRight="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="Ernest Semerda"
+                android:textSize="13sp"
+                android:textColor="@color/md_white_1000"
+                android:shadowColor="@color/md_black_1000"
+                android:textStyle="bold"
+                android:id="@+id/tvFullName"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/ivProfileImage"
+                android:layout_toEndOf="@+id/ivProfileImage" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="This is a Tag line"
+                android:textSize="11sp"
+                android:textColor="@color/md_white_1000"
+                android:id="@+id/tvTagline"
+                android:layout_below="@+id/tvFullName"
+                android:layout_toRightOf="@+id/ivProfileImage"
+                android:layout_toEndOf="@+id/ivProfileImage" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/llCounts"
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:paddingTop="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_below="@+id/rlUserHeader"
+            android:orientation="horizontal"
+            android:background="@color/primary">
+
+            <TextView
+                android:id="@+id/tvFollowers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="8 Followers"
+                android:textSize="11sp"
+                android:textColor="@color/md_white_1000"
+                android:layout_marginLeft="10dp"
+                android:tag="binding_1"                                           />
+
+            <TextView
+                android:id="@+id/tvFollowing"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="5 Following"
+                android:textSize="11sp"
+                android:textColor="@color/md_white_1000"
+                android:layout_marginLeft="20dp"
+                android:tag="binding_2"                                           />
+
+        </LinearLayout>
+
+        <com.astuetz.PagerSlidingTabStrip
+            android:id="@+id/tabs"
+            android:layout_below="@+id/llCounts"
+            app:pstsShouldExpand="true"
+            app:pstsTextAllCaps="true"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            app:pstsDividerColor="@color/primary_dark"
+            app:pstsIndicatorColor="@color/accent"
+            app:pstsUnderlineColor="@color/primary"
+            android:background="@color/md_white_1000"
+            app:pstsTabPaddingLeftRight="14dp" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_below="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white" />
+
+        <!--FrameLayout
+            android:id="@+id/flContainer"
+            android:layout_below="@+id/llCounts"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/md_green_400">
+        </FrameLayout-->
+
+        <ProgressBar
+            android:id="@+id/google_progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center" />
+
+    </RelativeLayout>
+         

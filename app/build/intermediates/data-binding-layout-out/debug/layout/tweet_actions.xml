@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    
+                                                                                      
+                                                                                                 
+           
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="40dp" android:tag="layout/tweet_actions_0">
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivReply"
+            android:src="@drawable/twitter_reply"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:tag="binding_1"                                         />
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivRetweetCount"
+            android:src="@drawable/twitter_retweet"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:tag="binding_2"                                           />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RETWEET_COUNT"                               
+            tools:text="2"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvRetweetCount"
+            android:layout_marginLeft="5dp"
+            android:tag="binding_3"                                           />
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivFavoriteCount"
+            android:src="@drawable/twitter_like"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:tag="binding_4"                                            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="FAVORITE_COUNT"                                
+            tools:text="3"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvFavoriteCount"
+            android:layout_marginLeft="5dp"
+            android:tag="binding_5"                                            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_detail"
+            tools:text="Show Detail"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvMoreDetail"
+            android:layout_marginLeft="20dp"
+            android:tag="binding_6"                                              />
+
+    </LinearLayout>
+
+         

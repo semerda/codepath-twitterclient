@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.codepath.libraries/android-oauth-handler/1.0.0/jars/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3d2ba852ca4cb07c2e9ecbd9a56ff9456025e344">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3_6919b1000efd8ec682fec473d5861ed32524c2a6.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.0_dfc0f5d799ca7357249e9deafa86ee11df9aa688.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_c38e6bcc55c5c5a1410d34534a8fcf39946ceb6a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.0_143500f0d5e1a56e292229a3b8556987e05fdc0f.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_8d32540094c917e28de4035b531e34f5ebfc6197.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/2.2.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/jp.wasabeef-recyclerview-animators-2.2.3_1ade6709875c1956d8ab2de1e25cc2efdeeb4c48.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.8.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cbdf1602ce622f3445dc7513237f30930c6e4a5a">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.afollestad.material-dialogs-core-0.8.6.2_e7951133818de88047d98f2c5cc157e13dcdd4fc.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/libs/org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy_fd37f7eba33173a6c89f872c4171e67ad4a561bb.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.0_50ca9d380e66807b681635188874ca2cc7d52f90.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.databinding/library/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d985cdf99de8a63824b52d8a8efc309f9e5fbf01">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.1_d305cdd945b07740c17d59334e6a699ac0455d99.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_e6d3a1242846d40886192f2356ee65d9f9d6d4da.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.codepath.libraries/android-oauth-handler/1.0.0/jars/libs/codepath-utils.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a9f67173c34e04d2d5609283d43f3006cc4d947">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/codepath-utils_fc5dbbb6387fbf059d54bcb9dbc297f8ef6ab634.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b61e9af4561be91ee59d6a852f0207bb8f2bb57">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/instant-run_f02062aab633ede3aca03946070c73c82215fa0e.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.codepath.libraries/android-oauth-handler/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07aa74f1dee90d22616f6aa98a65bea8458cf671">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.codepath.libraries-android-oauth-handler-1.0.0_6664a5853435fc86da50453c41db62e3138a2383.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_e86c0e4e12ced1b29c9c5dd710fe8a69b1c5e18a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3cae403175958af8baa00bed0bd6e04187d69415">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.1_53bf97f1a218b4986f9e7c2bb471c166e1421692.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_b9d4ac67d47ce51952d7760b6d692ed8346b1177.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.astuetz-pagerslidingtabstrip-1.0.1_65f980c2c55cc3633ef64436ea5a2306badfde41.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.0_2bc3e04ddf83a1d0df67efaeb4eb70bba80360b9.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.0_491418a4eeff703a54ebb39094a9fe09b854f599.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="73356371216de36d63101f8b835f035b08a612b0">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_503863364b1fd89e1c105f936b6671699f0aacb5.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.1/d081ad6f7c51627ebe2dbf157cc525cbf5e9c821/parceler-api-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d081ad6f7c51627ebe2dbf157cc525cbf5e9c821">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.1_d765982f31f0cabefc3fce893cfb94114f44572a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_69b5c7a70709345083b68355200abb2a9b7e064a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.jpardogo.googleprogressbar/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f44c62d1f53c6e217b565981f84deced5343504f">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.jpardogo.googleprogressbar-library-1.1.0_62b36c6a02bdf7bc05093ee72892a9d4dbd3dcce.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.2.1_03eb4414d0e6f699e10a22e91fba6be4bea5caf4.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/me.zhanghai.android.materialprogressbar-library-1.1.7_f362fdb5b8a3db3dea72481361736d6c7ebf189a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_bd0d7ebe11b8e662d785559756e6dfb978729d2f.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/android/databinding/baseLibrary/2.1.2/baseLibrary-2.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357d1307d303c4771283372a53fd7c45e0c19c89">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/baseLibrary-2.1.2_e874a79ced6bda04e46ee4b599aee642f2b026c5.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/glide-3.5.2_ac780e2d746f6a56eea7f8a7e301d392b77e04b2.jar" />
+    </item>
+
+</items>

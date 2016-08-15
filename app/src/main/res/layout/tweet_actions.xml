@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+        <variable name="tweet" type="com.purpleblue.apps.twitterclient.models.Tweet"/>
+        <variable name="handler" type="com.purpleblue.apps.twitterclient.handlers.TweetHandler"/>
+    </data>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="40dp">
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivReply"
+            android:src="@drawable/twitter_reply"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:onClick="@{(v) -> handler.onClickTweetReply(v, tweet)}" />
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivRetweetCount"
+            android:src="@drawable/twitter_retweet"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:onClick="@{(v) -> handler.onClickTweetRetweet(v, tweet)}" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{tweet.retweetCount, default=RETWEET_COUNT}"
+            tools:text="2"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvRetweetCount"
+            android:layout_marginLeft="5dp"
+            android:onClick="@{(v) -> handler.onClickTweetRetweet(v, tweet)}" />
+
+        <ImageView
+            android:scaleType="fitCenter"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:id="@+id/ivFavoriteCount"
+            android:src="@drawable/twitter_like"
+            android:layout_marginRight="3dp"
+            android:layout_marginLeft="20dp"
+            android:onClick="@{(v) -> handler.onClickTweetFavorite(v, tweet)}" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{tweet.favoriteCount, default=FAVORITE_COUNT}"
+            tools:text="3"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvFavoriteCount"
+            android:layout_marginLeft="5dp"
+            android:onClick="@{(v) -> handler.onClickTweetFavorite(v, tweet)}" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/show_detail"
+            tools:text="Show Detail"
+            android:textSize="11sp"
+            android:textColor="@color/md_grey_500"
+            android:id="@+id/tvMoreDetail"
+            android:layout_marginLeft="20dp"
+            android:onClick="@{(v) -> handler.onClickTweetShowDetail(v, tweet)}" />
+
+    </LinearLayout>
+
+</layout>
