@@ -4,22 +4,30 @@
     api-level="19"
     density="xxhdpi"
     format="7"
-    timestamp="65544041165493"
+    timestamp="66354983933793"
     token="-5232531208104356681" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1960" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="425" />
     <task
         name="verifier"
-        duration="0" />
+        duration="87" />
 
-    <build timestamp="65544041165493" />
+    <artifact
+        location="/Users/ernest/Android/codepath-twitterclient/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="66354983933793" >
+        <artifact
+            location="/Users/ernest/Android/codepath-twitterclient/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
 
 </instant-run>

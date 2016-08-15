@@ -89,15 +89,8 @@
         jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="0b61e9af4561be91ee59d6a852f0207bb8f2bb57">
+        sha1="7695dfa54eec1b4b022a5b698a8fc592111161b2">
         <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/instant-run_f02062aab633ede3aca03946070c73c82215fa0e.jar" />
-    </item>
-    <item
-        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.codepath.libraries/android-oauth-handler/1.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="07aa74f1dee90d22616f6aa98a65bea8458cf671">
-        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.codepath.libraries-android-oauth-handler-1.0.0_6664a5853435fc86da50453c41db62e3138a2383.jar" />
     </item>
     <item
         jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
@@ -105,6 +98,13 @@
         revision="23.0.3"
         sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
         <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.0_e86c0e4e12ced1b29c9c5dd710fe8a69b1c5e18a.jar" />
+    </item>
+    <item
+        jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.codepath.libraries/android-oauth-handler/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07aa74f1dee90d22616f6aa98a65bea8458cf671">
+        <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/com.codepath.libraries-android-oauth-handler-1.0.0_6664a5853435fc86da50453c41db62e3138a2383.jar" />
     </item>
     <item
         jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.1/jars/classes.jar"
@@ -145,7 +145,7 @@
         jar="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="73356371216de36d63101f8b835f035b08a612b0">
+        sha1="977197912383d13cd4720fefad6429ee31126396">
         <dex dex="/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_503863364b1fd89e1c105f936b6671699f0aacb5.jar" />
     </item>
     <item

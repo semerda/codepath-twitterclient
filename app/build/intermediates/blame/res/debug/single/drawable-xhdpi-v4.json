@@ -108,12 +108,12 @@
         "source": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_block_black_48dp.png",
         "source": "/Users/ernest/Android/codepath-twitterclient/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_block_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/ernest/Android/codepath-twitterclient/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_autorenew_black_24dp.png",
