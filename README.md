@@ -47,13 +47,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/semerda/codepath-simpletwitterclient/blob/master/misc/simpletwitterclient-anim.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/semerda/codepath-simpletwitterclient/blob/master/misc/twitterclient-anim.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
